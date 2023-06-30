@@ -1,0 +1,1779 @@
+
+  
+    {
+      "cardType": "seeAllRestaurants",
+      "layoutAlignmentType": "VERTICAL",
+      "data": {
+        "type": "seeAllRestaurants",
+        "data": {
+          "title": "SEE ALL",
+          "totalOpenRestaurants": 193,
+          "cards": [
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "508619",
+                "name": "Bakingo",
+                "uuid": "04a47c2e-48a8-4da6-8270-f76ed95dab86",
+                "city": "86",
+                "area": "Model Town",
+                "totalRatingsString": "500+ ratings",
+                "cloudinaryImageId": "pwvul2oyitnhwpbsctbm",
+                "cuisines": [
+                  "Bakery",
+                  "Desserts",
+                  "Beverages",
+                  "Snacks"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 29900,
+                "costForTwoString": "₹299 FOR TWO",
+                "deliveryTime": 21,
+                "minDeliveryTime": 21,
+                "maxDeliveryTime": 21,
+                "slaString": "21 MINS",
+                "lastMileTravel": 4.599999904632568,
+                "slugs": {
+                  "restaurant": "bakingo-karnal-model-town",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Shop No 1 Ground Floor 324 R Model Town, Karnal, Haryana, 132001",
+                "locality": "Daya Nand Colony\n",
+                "parentId": 3818,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "ribbon": [
+                  {
+                    "type": "PROMOTED"
+                  }
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "distance",
+                      "fee": 2500,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 2500,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "2500",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "cid=7014080~p=1~eid=00000189-01ae-ddbd-19a3-34510087017d~srvts=1687950384573",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "4.5 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "60% OFF",
+                  "subHeader": "UPTO ₹120",
+                  "discountTag": "",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "508619",
+                  "deliveryTime": 21,
+                  "minDeliveryTime": 21,
+                  "maxDeliveryTime": 21,
+                  "lastMileTravel": 4.599999904632568,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": true,
+                "avgRating": "4.5",
+                "totalRatings": 500,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "348834",
+                "name": "PizzaLA",
+                "uuid": "4076c5ff-b4e6-436b-8406-6f16b95064eb",
+                "city": "86",
+                "area": "Sector 7",
+                "totalRatingsString": "50+ ratings",
+                "cloudinaryImageId": "qsehvbchjhrvysejvyxr",
+                "cuisines": [
+                  "American",
+                  "Pizzas",
+                  "Pastas"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 20000,
+                "costForTwoString": "₹200 FOR TWO",
+                "deliveryTime": 17,
+                "minDeliveryTime": 17,
+                "maxDeliveryTime": 17,
+                "slaString": "17 MINS",
+                "lastMileTravel": 0.6000000238418579,
+                "slugs": {
+                  "restaurant": "aggarwal-foodworks-sector-13-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Shop No. 3, Near Palm Residency, Sec 36, Karnal,  Karnal, Haryana-132001",
+                "locality": "Sector 36",
+                "parentId": 159114,
+                "unserviceable": false,
+                "veg": true,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 6800,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 6800,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "6800",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "0.6 kms",
+                "hasSurge": false,
+                "sla": {
+                  "restaurantId": "348834",
+                  "deliveryTime": 17,
+                  "minDeliveryTime": 17,
+                  "maxDeliveryTime": 17,
+                  "lastMileTravel": 0.6000000238418579,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.3",
+                "totalRatings": 50,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "353993",
+                "name": "La Pino'z Pizza",
+                "uuid": "a1ec43c0-e180-4076-b48c-c20c0c7e3538",
+                "city": "86",
+                "area": "Sector 13",
+                "totalRatingsString": "1000+ ratings",
+                "cloudinaryImageId": "l4eymroofrkbjdcgndbs",
+                "cuisines": [
+                  "Pizzas",
+                  "Pastas",
+                  "Italian",
+                  "Desserts",
+                  "Beverages"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 30000,
+                "costForTwoString": "₹300 FOR TWO",
+                "deliveryTime": 19,
+                "minDeliveryTime": 19,
+                "maxDeliveryTime": 19,
+                "slaString": "19 MINS",
+                "lastMileTravel": 2.9000000953674316,
+                "slugs": {
+                  "restaurant": "la-pino'z-pizza-sector-13-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "SCO 142, Sector 13, Main Market, Karnal.",
+                "locality": "Sco 142",
+                "parentId": 4961,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "ribbon": [
+                  {
+                    "type": "PROMOTED"
+                  }
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 2000,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 2000,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "2000",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "cid=7102058~p=4~eid=00000189-01ae-ddbd-19a3-345200870416~srvts=1687950384573",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "2.9 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "15% OFF",
+                  "subHeader": "UPTO ₹80",
+                  "discountTag": "",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "353993",
+                  "deliveryTime": 19,
+                  "minDeliveryTime": 19,
+                  "maxDeliveryTime": 19,
+                  "lastMileTravel": 2.9000000953674316,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": true,
+                "avgRating": "3.8",
+                "totalRatings": 1000,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "700093",
+                "name": "Heritage Lawns",
+                "uuid": "0571a23c-41b8-4286-8a3f-7b939bf9eade",
+                "city": "86",
+                "area": "Model Town",
+                "totalRatingsString": "Too Few Ratings",
+                "cloudinaryImageId": "fb3be3440f81b88157f50c9485e8c127",
+                "cuisines": [
+                  "North Indian",
+                  "Chinese",
+                  "Biryani",
+                  "Fast Food",
+                  "Thalis",
+                  "Desserts"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 29900,
+                "costForTwoString": "₹299 FOR TWO",
+                "deliveryTime": 16,
+                "minDeliveryTime": 16,
+                "maxDeliveryTime": 16,
+                "slaString": "16 MINS",
+                "lastMileTravel": 0.30000001192092896,
+                "slugs": {
+                  "restaurant": "heritage-lawns-model-town-model-town",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Heritage Lawn, Behind Sector 4-5, Vikas Nagar,  Karnal, Karnal, Haryana-132001",
+                "locality": "Vikas Nagar",
+                "parentId": 418332,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 6800,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 6800,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "6800",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "0.3 kms",
+                "hasSurge": false,
+                "sla": {
+                  "restaurantId": "700093",
+                  "deliveryTime": 16,
+                  "minDeliveryTime": 16,
+                  "maxDeliveryTime": 16,
+                  "lastMileTravel": 0.30000001192092896,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "--",
+                "totalRatings": 0,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "146796",
+                "name": "Shri Bal Gopal",
+                "uuid": "bd56ef89-b212-4558-970b-f82b6961ce61",
+                "city": "86",
+                "area": "Sector 7",
+                "totalRatingsString": "500+ ratings",
+                "cloudinaryImageId": "vdbnsakmi1arug4eqsce",
+                "cuisines": [
+                  "North Indian"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 15000,
+                "costForTwoString": "₹150 FOR TWO",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 20,
+                "slaString": "20 MINS",
+                "lastMileTravel": 1.2999999523162842,
+                "slugs": {
+                  "restaurant": "shri-bal-gopal-sector-6-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "SCF-88 Near allahbad bank, Sector-6 main market, karnal",
+                "locality": "Sector 6",
+                "parentId": 186182,
+                "unserviceable": false,
+                "veg": true,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 8300,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 8300,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "8300",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "1.2 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "₹125 OFF",
+                  "subHeader": "ABOVE ₹249",
+                  "discountTag": "FLAT DEAL",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "146796",
+                  "deliveryTime": 20,
+                  "minDeliveryTime": 20,
+                  "maxDeliveryTime": 20,
+                  "lastMileTravel": 1.2999999523162842,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.7",
+                "totalRatings": 500,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "508945",
+                "name": "Mickies Food Studio",
+                "uuid": "6cc025a3-1129-41e4-a609-8e62f30993c8",
+                "city": "86",
+                "area": "Sector-13",
+                "totalRatingsString": "Too Few Ratings",
+                "cloudinaryImageId": "casvcrtohfkvx70cixgp",
+                "cuisines": [
+                  "North Indian",
+                  "Fast Food",
+                  "Snacks",
+                  "Thalis",
+                  "Desserts"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 30000,
+                "costForTwoString": "₹300 FOR TWO",
+                "deliveryTime": 17,
+                "minDeliveryTime": 17,
+                "maxDeliveryTime": 17,
+                "slaString": "17 MINS",
+                "lastMileTravel": 0.30000001192092896,
+                "slugs": {
+                  "restaurant": "relish-hospitality-services-sector-13-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Relish Hospitality Services, 101, Mile Stone, National Highway VPO. Kondh, Teh Gharaunda, Distt. Karnal-132001 HR, Ghauraunda Karnal-132114",
+                "locality": "Sector-13",
+                "parentId": 304507,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 6800,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 6800,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "6800",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "0.3 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "FREE ITEM",
+                  "subHeader": "",
+                  "discountTag": "",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "508945",
+                  "deliveryTime": 17,
+                  "minDeliveryTime": 17,
+                  "maxDeliveryTime": 17,
+                  "lastMileTravel": 0.30000001192092896,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "--",
+                "totalRatings": 0,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "700094",
+                "name": "Pet Pooja",
+                "uuid": "13b72ccc-4bb6-402e-8168-8ca1a24b6c4d",
+                "city": "86",
+                "area": "Model Town",
+                "totalRatingsString": "Too Few Ratings",
+                "cloudinaryImageId": "fb3be3440f81b88157f50c9485e8c127",
+                "cuisines": [
+                  "North Indian",
+                  "Biryani",
+                  "Thalis"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 19900,
+                "costForTwoString": "₹199 FOR TWO",
+                "deliveryTime": 18,
+                "minDeliveryTime": 18,
+                "maxDeliveryTime": 18,
+                "slaString": "18 MINS",
+                "lastMileTravel": 0.4000000059604645,
+                "slugs": {
+                  "restaurant": "pet-pooja-model-town-model-town",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Heritage Lawn, Behind Sector 4-5, Vikas Nagar,  Karnal, Karnal, Haryana-132001",
+                "locality": "Vikas Nagar",
+                "parentId": 14316,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 6800,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 6800,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "6800",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "0.4 kms",
+                "hasSurge": false,
+                "sla": {
+                  "restaurantId": "700094",
+                  "deliveryTime": 18,
+                  "minDeliveryTime": 18,
+                  "maxDeliveryTime": 18,
+                  "lastMileTravel": 0.4000000059604645,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "--",
+                "totalRatings": 0,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "122830",
+                "name": "Hwealth Cafe",
+                "uuid": "a85af157-3a64-44c1-b245-2c823aeb9138",
+                "city": "86",
+                "area": "Sector 14",
+                "totalRatingsString": "1000+ ratings",
+                "cloudinaryImageId": "kwlqjzfbw6q4wkksetjj",
+                "cuisines": [
+                  "Healthy Food",
+                  "Beverages",
+                  "Tandoor"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 20000,
+                "costForTwoString": "₹200 FOR TWO",
+                "deliveryTime": 25,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 25,
+                "slaString": "25 MINS",
+                "lastMileTravel": 3.9000000953674316,
+                "slugs": {
+                  "restaurant": "hwealth-cafe-sector-13-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Shop 33, Super Mall, Saini Colony, Sector 14, Karnal",
+                "locality": "Saini Colony",
+                "parentId": 1417,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "ribbon": [
+                  {
+                    "type": "PROMOTED"
+                  }
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 2500,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 2500,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "2500",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "cid=7214774~p=10~eid=00000189-01ae-ddbd-19a3-345400870a1b~srvts=1687950384573",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "3.9 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "₹125 OFF",
+                  "subHeader": "ABOVE ₹249",
+                  "discountTag": "FLAT DEAL",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "122830",
+                  "deliveryTime": 25,
+                  "minDeliveryTime": 25,
+                  "maxDeliveryTime": 25,
+                  "lastMileTravel": 3.9000000953674316,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": true,
+                "avgRating": "3.9",
+                "totalRatings": 1000,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "700095",
+                "name": "Kukkad Sukkad",
+                "uuid": "f847b9c7-b636-4e07-a8f5-5426b01cd17e",
+                "city": "86",
+                "area": "Model Town",
+                "totalRatingsString": "Too Few Ratings",
+                "cloudinaryImageId": "fb3be3440f81b88157f50c9485e8c127",
+                "cuisines": [
+                  "North Indian",
+                  "Chinese",
+                  "Biryani",
+                  "Fast Food",
+                  "Snacks",
+                  "Salads"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 20000,
+                "costForTwoString": "₹200 FOR TWO",
+                "deliveryTime": 17,
+                "minDeliveryTime": 17,
+                "maxDeliveryTime": 17,
+                "slaString": "17 MINS",
+                "lastMileTravel": 0.30000001192092896,
+                "slugs": {
+                  "restaurant": "kukkad-sukkad-model-town-model-town",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Heritage Lawn, Behind Sector 4-5, Vikas Nagar,  Karnal, Karnal, Haryana-132001",
+                "locality": "Vikas Nagar",
+                "parentId": 334293,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 6800,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 6800,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "6800",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "0.3 kms",
+                "hasSurge": false,
+                "sla": {
+                  "restaurantId": "700095",
+                  "deliveryTime": 17,
+                  "minDeliveryTime": 17,
+                  "maxDeliveryTime": 17,
+                  "lastMileTravel": 0.30000001192092896,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "--",
+                "totalRatings": 0,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "100869",
+                "name": "Karan Sweets",
+                "uuid": "844478b5-cd70-424a-aab0-5700d6784c6a",
+                "city": "86",
+                "area": "Dyal Singh Colony",
+                "totalRatingsString": "10000+ ratings",
+                "cloudinaryImageId": "pkgxdn2bpee2nuoabajb",
+                "cuisines": [
+                  "Sweets",
+                  "Desserts",
+                  "Snacks",
+                  "Chaat"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 20000,
+                "costForTwoString": "₹200 FOR TWO",
+                "deliveryTime": 25,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 25,
+                "slaString": "25 MINS",
+                "lastMileTravel": 3,
+                "slugs": {
+                  "restaurant": "karan-sweets-kunjpura-road-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Shop no. 357/18, Kunjpura Road, karnal",
+                "locality": "Kunjpura Road",
+                "parentId": 115007,
+                "unserviceable": false,
+                "veg": true,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 2000,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 2000,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "2000",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "3 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "20% OFF",
+                  "subHeader": "UPTO ₹50",
+                  "discountTag": "",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "100869",
+                  "deliveryTime": 25,
+                  "minDeliveryTime": 25,
+                  "maxDeliveryTime": 25,
+                  "lastMileTravel": 3,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.9",
+                "totalRatings": 10000,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "101367",
+                "name": "Lali Ki Thali",
+                "uuid": "ac8f07fd-98c6-4122-b11c-4995804c6483",
+                "city": "86",
+                "area": "Sector 13",
+                "totalRatingsString": "1000+ ratings",
+                "cloudinaryImageId": "gecqr0ftclyfvndvrms7",
+                "cuisines": [
+                  "North Indian",
+                  "Chinese",
+                  "Beverages",
+                  "Tandoor",
+                  "Street Food"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 25000,
+                "costForTwoString": "₹250 FOR TWO",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 20,
+                "slaString": "20 MINS",
+                "lastMileTravel": 3,
+                "slugs": {
+                  "restaurant": "lali-ki-thali-mughal-canal-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Shop No. 102, Mughal Canal, Karnal",
+                "locality": "Mughal Canal",
+                "parentId": 123301,
+                "unserviceable": false,
+                "veg": true,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "ribbon": [
+                  {
+                    "type": "PROMOTED"
+                  }
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 2000,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 2000,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "2000",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "cid=7214775~p=13~eid=00000189-01ae-ddbd-19a3-345500870d6f~srvts=1687950384573",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "3 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100",
+                  "discountTag": "",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "101367",
+                  "deliveryTime": 20,
+                  "minDeliveryTime": 20,
+                  "maxDeliveryTime": 20,
+                  "lastMileTravel": 3,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": true,
+                "avgRating": "3.8",
+                "totalRatings": 1000,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "696175",
+                "name": "Aggarwal Foods",
+                "uuid": "2875dded-48fa-4bdd-8dca-44710c8a3c56",
+                "city": "86",
+                "area": "Model Town",
+                "totalRatingsString": "Too Few Ratings",
+                "cloudinaryImageId": "08084c5e7590cce9bc00e13ad9fa5a3d",
+                "cuisines": [
+                  "Pizzas",
+                  "Fast Food",
+                  "Beverages"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 19900,
+                "costForTwoString": "₹199 FOR TWO",
+                "deliveryTime": 17,
+                "minDeliveryTime": 17,
+                "maxDeliveryTime": 17,
+                "slaString": "17 MINS",
+                "lastMileTravel": 0.6000000238418579,
+                "slugs": {
+                  "restaurant": "aggarwal-foods-model-town-model-town",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Shop No. 3, Near Palm Residency, Sec 36,  Karnal, Karnal (Rural)(Part)(1), Karnal,  Karnal, Haryana - 132001",
+                "locality": "Sec 36",
+                "parentId": 416508,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 6800,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 6800,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "6800",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "0.6 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "50% OFF",
+                  "subHeader": "UPTO ₹100",
+                  "discountTag": "",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "696175",
+                  "deliveryTime": 17,
+                  "minDeliveryTime": 17,
+                  "maxDeliveryTime": 17,
+                  "lastMileTravel": 0.6000000238418579,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "--",
+                "totalRatings": 0,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "100290",
+                "name": "Pizza Galleria",
+                "uuid": "9f641498-6d27-4db7-bcc7-2051aeb495cc",
+                "city": "86",
+                "area": "Sector 13",
+                "totalRatingsString": "10000+ ratings",
+                "cloudinaryImageId": "qr8xenv7nsqkp2vogcrp",
+                "cuisines": [
+                  "Pizzas",
+                  "Pastas",
+                  "Beverages",
+                  "Desserts"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 25000,
+                "costForTwoString": "₹250 FOR TWO",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 20,
+                "slaString": "20 MINS",
+                "lastMileTravel": 2.9000000953674316,
+                "slugs": {
+                  "restaurant": "pizza-galleria-sector-13-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "sco no 17 kalra market, Sector 13, Karnal, Haryana 132001",
+                "locality": "Kalra Market",
+                "parentId": 6557,
+                "unserviceable": false,
+                "veg": true,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 2000,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 2000,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "2000",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "2.9 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "₹125 OFF",
+                  "subHeader": "ABOVE ₹249",
+                  "discountTag": "FLAT DEAL",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "100290",
+                  "deliveryTime": 20,
+                  "minDeliveryTime": 20,
+                  "maxDeliveryTime": 20,
+                  "lastMileTravel": 2.9000000953674316,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "3.9",
+                "totalRatings": 10000,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "369028",
+                "name": "Sardarji Malai Chaap Wale",
+                "uuid": "e6e4d03a-b930-4d28-856e-18631841d0ca",
+                "city": "86",
+                "area": "Sector 13",
+                "totalRatingsString": "500+ ratings",
+                "cloudinaryImageId": "mj1vnazz0jvj34dp5xat",
+                "cuisines": [
+                  "North Indian",
+                  "Snacks"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 25000,
+                "costForTwoString": "₹250 FOR TWO",
+                "deliveryTime": 21,
+                "minDeliveryTime": 21,
+                "maxDeliveryTime": 21,
+                "slaString": "21 MINS",
+                "lastMileTravel": 3.700000047683716,
+                "slugs": {
+                  "restaurant": "shree-bala-ji-foods-model-town-model-town",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "SCO 214 Sector 12, Opp. Dominos, Karnal,  Karnal (Rural)(Part)(1), Karnal, Karnal,  Haryana-132001",
+                "locality": "Sector 12",
+                "parentId": 2007,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "ribbon": [
+                  {
+                    "type": "PROMOTED"
+                  }
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 2500,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 2500,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "2500",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "cid=7214788~p=16~eid=00000189-01ae-ddbd-19a3-345600871036~srvts=1687950384573",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "3.7 kms",
+                "hasSurge": false,
+                "aggregatedDiscountInfoV3": {
+                  "header": "40% OFF",
+                  "subHeader": "UPTO ₹80",
+                  "discountTag": "",
+                  "headerTypeV2": 0
+                },
+                "sla": {
+                  "restaurantId": "369028",
+                  "deliveryTime": 21,
+                  "minDeliveryTime": 21,
+                  "maxDeliveryTime": 21,
+                  "lastMileTravel": 3.700000047683716,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": true,
+                "avgRating": "4.0",
+                "totalRatings": 500,
+                "new": false
+              },
+              "subtype": "basic"
+            },
+            {
+              "type": "restaurant",
+              "data": {
+                "type": "F",
+                "id": "476156",
+                "name": "Desi Swaad",
+                "uuid": "c11e908e-2bc3-4a0a-a496-82b0f5cc194e",
+                "city": "86",
+                "area": "Sector 34",
+                "totalRatingsString": "Too Few Ratings",
+                "cloudinaryImageId": "xg5dgdrw43ud7yafv1sl",
+                "cuisines": [
+                  "Indian",
+                  "Biryani"
+                ],
+                "tags": [
+                  
+                ],
+                "costForTwo": 20000,
+                "costForTwoString": "₹200 FOR TWO",
+                "deliveryTime": 17,
+                "minDeliveryTime": 17,
+                "maxDeliveryTime": 17,
+                "slaString": "17 MINS",
+                "lastMileTravel": 0.6000000238418579,
+                "slugs": {
+                  "restaurant": "desi-swaad-sector-13-sector-13",
+                  "city": "karnal"
+                },
+                "cityState": "86",
+                "address": "Shop No. 17, JBB Road, Near Heritage  Lawn, Sec 35, Karnal, Karnal (Rural)(Part) (1), Karnal, Karnal, Haryana-132001",
+                "locality": "Sector 35",
+                "parentId": 71254,
+                "unserviceable": false,
+                "veg": false,
+                "select": false,
+                "favorite": false,
+                "tradeCampaignHeaders": [
+                  
+                ],
+                "chain": [
+                  
+                ],
+                "feeDetails": {
+                  "fees": [
+                    {
+                      "name": "distance",
+                      "fee": 6800,
+                      "message": ""
+                    },
+                    {
+                      "name": "time",
+                      "fee": 0,
+                      "message": ""
+                    },
+                    {
+                      "name": "special",
+                      "fee": 0,
+                      "message": ""
+                    }
+                  ],
+                  "totalFees": 6800,
+                  "message": "",
+                  "title": "Delivery Charge",
+                  "amount": "6800",
+                  "icon": ""
+                },
+                "availability": {
+                  "opened": true,
+                  "nextOpenMessage": "",
+                  "nextCloseMessage": ""
+                },
+                "longDistanceEnabled": 0,
+                "rainMode": "NONE",
+                "thirdPartyAddress": false,
+                "thirdPartyVendor": "",
+                "adTrackingID": "",
+                "badges": {
+                  "imageBased": [
+                    
+                  ],
+                  "textBased": [
+                    
+                  ],
+                  "textExtendedBadges": [
+                    
+                  ]
+                },
+                "lastMileTravelString": "0.6 kms",
+                "hasSurge": false,
+                "sla": {
+                  "restaurantId": "476156",
+                  "deliveryTime": 17,
+                  "minDeliveryTime": 17,
+                  "maxDeliveryTime": 17,
+                  "lastMileTravel": 0.6000000238418579,
+                  "lastMileDistance": 0,
+                  "serviceability": "SERVICEABLE",
+                  "rainMode": "NONE",
+                  "longDistance": "NOT_LONG_DISTANCE",
+                  "preferentialService": false,
+                  "iconType": "EMPTY"
+                },
+                "promoted": false,
+                "avgRating": "--",
+                "totalRatings": 0,
+                "new": false
+              },
+              "subtype": "basic"
+            }
+          ],
+          "totalRestaurants": 193
+        },
+        "subtype": "personalized"
+      },
+      "parentWidget": false
+    }
